@@ -27,7 +27,6 @@ Inicio
               fimse
          fimse
       senao
-      
            se imovel = "sim" entao
               se renda < 3001 entao
                  maximo <- 0.1 * valorImovel
