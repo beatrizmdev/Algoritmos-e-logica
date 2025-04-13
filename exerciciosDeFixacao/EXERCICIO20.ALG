@@ -1,8 +1,7 @@
-Algoritmo "exercicio19"
+Algoritmo "exercicio20"
 
 Var
-   salario, imposto, salarioDesconto : real
-
+   salario, imposto, salarioDesconto: real
 
 Inicio
       escreva("Informe o salário do profissional: ")
@@ -32,6 +31,5 @@ Inicio
       escreval(imposto)
       escreva("o salário com desconto é R$")
       escreva(salarioDesconto)
-
 
 Fimalgoritmo
