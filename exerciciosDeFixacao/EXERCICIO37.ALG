@@ -31,13 +31,13 @@ Inicio
            fimse
       fimpara
 
-      escreva("O(a) profissional com maior salário é: ")
+      escreva("O(a) profissional com o maior salário é: ")
       escreva(nomeMaior)
       escreva("(R$")
       escreva(maiorSalario)
       escreval(")")
       
-      escreva("O(a) profissional com menor salário é: ")
+      escreva("O(a) profissional com o menor salário é: ")
       escreva(nomeMenor)
       escreva("(R$")
       escreva(menorSalario)
