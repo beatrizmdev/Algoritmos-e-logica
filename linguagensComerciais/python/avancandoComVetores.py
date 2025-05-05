@@ -25,4 +25,6 @@ while valor >= 0:
     valor = int(input("Digite um valor: "))
 
 for i in range(0, len(valores)):
-    print(valores[i])
+    print(f"Valor: {valores[i]}")
+
+print(f"Tamanho: {len(valores)}")
