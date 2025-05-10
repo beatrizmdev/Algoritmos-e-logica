@@ -23,3 +23,12 @@ console.log(`Nome: ${nome} - Peso: ${peso} - Altura: ${altura}`)
 var imc = peso / (altura * altura)
 
 console.log(`IMC: ${imc}`)
+
+// possível erro
+var testeErroOperacaoSoma = peso + peso // se 2 strings: concatenação                                       
+console.log(testeErroOperacaoSoma, typeof(peso))      // se 2 numbers: soma
+
+// casting (formatação de valores)
+peso = Number(peso)
+var testeOkOperacaoSoma = peso + peso
+console.log(testeOkOperacaoSoma, typeof(peso))
