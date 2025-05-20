@@ -30,7 +30,7 @@ int main()
 
         printf("Deseja continuar (s)? ");
         fflush(stdin);
-        scanf("%c", &continuar);
+        scanf(" %c", &continuar);
     }
 
     printf("Valor total: %.2lf", total);
