@@ -22,7 +22,7 @@ int main()
     double notasConvertidas[20];
     char filmeMaiorNota[20];
     double maiorNota = 0.0;
-    char *lixo;
+    char *lixo; //Ponteiro p indicar fim do texto e início do lixo de memória
 
     while(strcmp(confirmacao, "sim") == 0){
             for(int i = 0; strcmp(confirmacao, "sim") == 0; i = i + 1){
@@ -41,7 +41,6 @@ int main()
                     notasConvertidas[i] = strtod(notas[i], &lixo);
                 }
 
-
                 printf("Deseja cadastrar um novo título? ");
                 fgets(confirmacao, 10, stdin);
 
@@ -55,7 +54,7 @@ int main()
             }
     }
 
-    printf("Filme com maior avaliação: %s", filmeMaiorNota);
+    printf("Filme com maior avaliação: %s", filmeMaiorNota);//
 
     SetConsoleCP(850); // estabelece  codepage entrada
     SetConsoleOutputCP(8507); // estabelece  codepage saída
