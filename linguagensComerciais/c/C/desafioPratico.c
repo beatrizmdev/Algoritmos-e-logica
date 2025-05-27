@@ -16,35 +16,46 @@ int main()
     SetConsoleCP(1252); // estabelece  codepage entrada
     SetConsoleOutputCP(1252); // estabelece  codepage saída
 
-    char confirmacao[10] = "sim";
+    char confirmacao[4] = "sim";
     char titulos[15][20];
-    double notas[20];
-    char filmeNotao[20];
+    char notas[15][7];
+    double notasConvertidas[20];
+    char filmeMaiorNota[20];
     double maiorNota = 0.0;
+    char *lixo;
 
-
-    do {
-            for(int i = 0; confirmacao == "sim"; i = i + 1){
+    while(strcmp(confirmacao, "sim") == 0){
+            for(int i = 0; strcmp(confirmacao, "sim") == 0; i = i + 1){
                 printf("Informe o título do filme: ");
                 fgets(titulos[i], 15, stdin);
 
-                int indice = strcspn(titulos[i], "\n");
-                titulos[i][indice] = 0;
-
-                printf("\n");
                 printf("Informe a avaliação: ");
-                scanf("%lf", &notas[i]);
-                printf("\n");
+                fgets(notas[i], 5, stdin);
+
+                notasConvertidas[i] = strtod(notas[i], &lixo);
+
+                while((notasConvertidas[i] < 1) || (notasConvertidas[i] > 5)) {
+                    printf("Nota inválida. Informe um valor entre 1 e 5. \n");
+                    printf("Informe a avaliação: ");
+                    fgets(notas[i], 5, stdin);
+                    notasConvertidas[i] = strtod(notas[i], &lixo);
+                }
+
+
                 printf("Deseja cadastrar um novo título? ");
                 fgets(confirmacao, 10, stdin);
 
-                if(notas[i] > maiorNota) {
-                    maiorNota = notas[i];
-                    strcpy(filmeNotao, titulos[i]);
+                int indice = strcspn(confirmacao, "\n");
+                confirmacao[indice] = 0;
+
+                if(notasConvertidas[i] > maiorNota) {
+                    maiorNota = notasConvertidas[i];
+                    strcpy(filmeMaiorNota, titulos[i]);
                 }
             }
+    }
 
-    } while(confirmacao == "sim");
+    printf("Filme com maior avaliação: %s", filmeMaiorNota);
 
     SetConsoleCP(850); // estabelece  codepage entrada
     SetConsoleOutputCP(8507); // estabelece  codepage saída
