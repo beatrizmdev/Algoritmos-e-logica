@@ -13,7 +13,7 @@ int main() {
 
     soma = x + y;
 
-    cout << "resultado da soma: "<< soma;
+    cout << "resultado da soma: \""<< soma << "\"\n "; // agora com a sequência de escape \"
     
     return 0;
 }
