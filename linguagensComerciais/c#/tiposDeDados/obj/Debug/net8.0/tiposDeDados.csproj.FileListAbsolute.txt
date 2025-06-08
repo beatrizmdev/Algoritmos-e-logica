@@ -1,0 +1,15 @@
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\bin\Debug\net8.0\tiposDeDados.exe
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\bin\Debug\net8.0\tiposDeDados.deps.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\bin\Debug\net8.0\tiposDeDados.runtimeconfig.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\bin\Debug\net8.0\tiposDeDados.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\bin\Debug\net8.0\tiposDeDados.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\obj\Debug\net8.0\tiposDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\obj\Debug\net8.0\tiposDeDados.AssemblyInfoInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\obj\Debug\net8.0\tiposDeDados.AssemblyInfo.cs
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\obj\Debug\net8.0\tiposDeDados.csproj.CoreCompileInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\obj\Debug\net8.0\tiposDeDados.sourcelink.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\obj\Debug\net8.0\tiposDeDados.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\obj\Debug\net8.0\refint\tiposDeDados.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\obj\Debug\net8.0\tiposDeDados.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\obj\Debug\net8.0\tiposDeDados.genruntimeconfig.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeDados\obj\Debug\net8.0\ref\tiposDeDados.dll
