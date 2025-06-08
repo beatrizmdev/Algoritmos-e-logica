@@ -1,0 +1,15 @@
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.AssemblyInfo.cs
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.sourcelink.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\bin\Debug\net8.0\tiposDeVariaveis.exe
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\bin\Debug\net8.0\tiposDeVariaveis.deps.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\bin\Debug\net8.0\tiposDeVariaveis.runtimeconfig.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\bin\Debug\net8.0\tiposDeVariaveis.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\bin\Debug\net8.0\tiposDeVariaveis.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\obj\Debug\net8.0\refint\tiposDeVariaveis.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\obj\Debug\net8.0\tiposDeVariaveis.genruntimeconfig.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\tiposDeVariaveis\obj\Debug\net8.0\ref\tiposDeVariaveis.dll
