@@ -1,0 +1,15 @@
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\obj\Debug\net8.0\sequenciaDeEscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\obj\Debug\net8.0\sequenciaDeEscape.AssemblyInfoInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\obj\Debug\net8.0\sequenciaDeEscape.AssemblyInfo.cs
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\obj\Debug\net8.0\sequenciaDeEscape.csproj.CoreCompileInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\obj\Debug\net8.0\sequenciaDeEscape.sourcelink.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\bin\Debug\net8.0\sequenciaDeEscape.exe
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\bin\Debug\net8.0\sequenciaDeEscape.deps.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\bin\Debug\net8.0\sequenciaDeEscape.runtimeconfig.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\bin\Debug\net8.0\sequenciaDeEscape.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\bin\Debug\net8.0\sequenciaDeEscape.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\obj\Debug\net8.0\sequenciaDeEscape.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\obj\Debug\net8.0\refint\sequenciaDeEscape.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\obj\Debug\net8.0\sequenciaDeEscape.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\obj\Debug\net8.0\sequenciaDeEscape.genruntimeconfig.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\sequenciaDeEscape\obj\Debug\net8.0\ref\sequenciaDeEscape.dll
