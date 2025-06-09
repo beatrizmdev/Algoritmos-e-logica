@@ -1,0 +1,15 @@
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\bin\Debug\net8.0\saidaDeDados.exe
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\bin\Debug\net8.0\saidaDeDados.deps.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\bin\Debug\net8.0\saidaDeDados.runtimeconfig.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\bin\Debug\net8.0\saidaDeDados.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\bin\Debug\net8.0\saidaDeDados.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\obj\Debug\net8.0\saidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\obj\Debug\net8.0\saidaDeDados.AssemblyInfoInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\obj\Debug\net8.0\saidaDeDados.AssemblyInfo.cs
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\obj\Debug\net8.0\saidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\obj\Debug\net8.0\saidaDeDados.sourcelink.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\obj\Debug\net8.0\saidaDeDados.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\obj\Debug\net8.0\refint\saidaDeDados.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\obj\Debug\net8.0\saidaDeDados.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\obj\Debug\net8.0\saidaDeDados.genruntimeconfig.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\saidaDeDados\obj\Debug\net8.0\ref\saidaDeDados.dll
