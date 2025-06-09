@@ -1,0 +1,5 @@
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\entradaDeDados\obj\Debug\net8.0\entradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\entradaDeDados\obj\Debug\net8.0\entradaDeDados.AssemblyInfoInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\entradaDeDados\obj\Debug\net8.0\entradaDeDados.AssemblyInfo.cs
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\entradaDeDados\obj\Debug\net8.0\entradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\entradaDeDados\obj\Debug\net8.0\entradaDeDados.sourcelink.json
