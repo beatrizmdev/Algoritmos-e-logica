@@ -1,0 +1,15 @@
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\bin\Debug\net8.0\whileEDoWhile.exe
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\bin\Debug\net8.0\whileEDoWhile.deps.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\bin\Debug\net8.0\whileEDoWhile.runtimeconfig.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\bin\Debug\net8.0\whileEDoWhile.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\bin\Debug\net8.0\whileEDoWhile.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\obj\Debug\net8.0\whileEDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\obj\Debug\net8.0\whileEDoWhile.AssemblyInfoInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\obj\Debug\net8.0\whileEDoWhile.AssemblyInfo.cs
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\obj\Debug\net8.0\whileEDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\obj\Debug\net8.0\whileEDoWhile.sourcelink.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\obj\Debug\net8.0\whileEDoWhile.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\obj\Debug\net8.0\refint\whileEDoWhile.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\obj\Debug\net8.0\whileEDoWhile.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\obj\Debug\net8.0\whileEDoWhile.genruntimeconfig.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\whileEDoWhile\obj\Debug\net8.0\ref\whileEDoWhile.dll
