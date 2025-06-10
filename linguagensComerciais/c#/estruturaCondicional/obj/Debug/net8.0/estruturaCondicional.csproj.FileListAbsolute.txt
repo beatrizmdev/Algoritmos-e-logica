@@ -1,0 +1,15 @@
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\obj\Debug\net8.0\estruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\obj\Debug\net8.0\estruturaCondicional.AssemblyInfoInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\obj\Debug\net8.0\estruturaCondicional.AssemblyInfo.cs
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\obj\Debug\net8.0\estruturaCondicional.csproj.CoreCompileInputs.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\obj\Debug\net8.0\estruturaCondicional.sourcelink.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\bin\Debug\net8.0\estruturaCondicional.exe
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\bin\Debug\net8.0\estruturaCondicional.deps.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\bin\Debug\net8.0\estruturaCondicional.runtimeconfig.json
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\bin\Debug\net8.0\estruturaCondicional.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\bin\Debug\net8.0\estruturaCondicional.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\obj\Debug\net8.0\estruturaCondicional.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\obj\Debug\net8.0\refint\estruturaCondicional.dll
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\obj\Debug\net8.0\estruturaCondicional.pdb
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\obj\Debug\net8.0\estruturaCondicional.genruntimeconfig.cache
+C:\Users\abbm9\OneDrive\Documentos\CursosUdemy\algoritmo-e-logica-de-prog\Exercicios\linguagensComerciais\c#\estruturaCondicional\obj\Debug\net8.0\ref\estruturaCondicional.dll
